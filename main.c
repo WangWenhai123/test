@@ -1,2 +1,2 @@
 master branch
-add description
+add description using multiple "-m"
